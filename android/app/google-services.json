@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "918565201410",
+    "firebase_url": "https://flutt-9374e-default-rtdb.firebaseio.com",
+    "project_id": "flutt-9374e",
+    "storage_bucket": "flutt-9374e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918565201410:android:2ad834626afb0e8578291b",
+        "android_client_info": {
+          "package_name": "com.example.flower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_9NN2MtAFra8sDD9s2pjlzl5HyQl738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918565201410:android:d4e9d7428784fa4678291b",
+        "android_client_info": {
+          "package_name": "com.havish.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_9NN2MtAFra8sDD9s2pjlzl5HyQl738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918565201410:android:e530eabb37ff3c2478291b",
+        "android_client_info": {
+          "package_name": "com.havish.quickpic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918565201410-4ui049o4ca5r4iak1f7uu8au060srggv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.havish.quickpic",
+            "certificate_hash": "41894d3f175912e86a3a5a89ab1275be3f68e12f"
+          }
+        },
+        {
+          "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_9NN2MtAFra8sDD9s2pjlzl5HyQl738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918565201410:android:0856c75c8e3786e578291b",
+        "android_client_info": {
+          "package_name": "com.havish.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_9NN2MtAFra8sDD9s2pjlzl5HyQl738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918565201410-aa94ceocaqg34c7kh4l4h762r68qbe7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
